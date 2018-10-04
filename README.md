@@ -1,1 +1,2 @@
 # CMPS12A
+Accelerated introduction to programming. Students write medium-sized programs. Topics include: functions; conditionals and loops; classes; event-driven programming and graphic user interfaces (GUIs); recursion; and arrays. Students who have no or very limited programming experience should consider courses 5J and 11 which cover the same material in two quarters. Students may not receive credit for both this course and course 11. Some prior programming experience in a language such as C, C++, Java, or C# strongly recommended.
